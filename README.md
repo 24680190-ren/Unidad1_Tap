@@ -326,19 +326,18 @@ En conclusión, el estudio de las interfaces gráficas de usuario permite compre
 
 Además, trabajar con herramientas como Flet facilita el aprendizaje, ya que permite implementar ventanas, botones, formularios y validaciones de manera práctica y directa, ayudando a entender mejor cómo funciona la interacción entre el usuario y el sistema. Gracias a estos conocimientos es posible desarrollar aplicaciones más ordenadas, funcionales y profesionales, mejorando la experiencia del usuario y garantizando que el software cumpla su propósito de forma eficiente.
 # Bibliografias
+1. ¿Qué es la interfaz de usuario? (s/f). Lenovo.com. Recuperado el 22 de febrero de 2026, de https://www.lenovo.com/mx/es/glosario/que-es-la-interfaz-de-usuario/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopAV_yO2-X5NNB2UV15sSjeszaNqV6FS_Wf4QPJoN50Zsu4Cmk8
+2. YouTube. (s/f). Youtu.Be. Recuperado el 22 de febrero de 2026, de https://youtu.be/MpkTYMzhV0A?si=EIhgzrEN1-eg3Hc2
 
-1. https://www.lenovo.com/mx/es/glosario/que-es-la-interfaz-de-usuario/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopAV_yO2-X5NNB2UV15sSjeszaNqV6FS_Wf4QPJoN50Zsu4Cmk8
-2. https://youtu.be/MpkTYMzhV0A?si=EIhgzrEN1-eg3Hc2
-3. https://es.scribd.com/presentation/812394937/Clase-Digu
-4. https://docs.flet.dev/controls/button/
-5. https://docs.flet.dev/controls/row/
-6. https://docs.flet.dev/controls/container/
-7.https://docs.flet.dev/controls/column/
-8. https://docs.flet.dev/controls/gridview/
-9. https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/Events
-10. https://keepcoding.io/blog/que-son-los-eventos-en-los-web-components/
-11. https://youtu.be/XVgA-kMkOdo?si=0DzZQ6QAfLLEBh9f
-12. https://docs.flet.dev/controls/checkbox/
-13. https://docs.flet.dev/ads/types/paidadevent/
-
+ 3.   Client challenge. (s/f). Scribd.com. Recuperado el 22 de febrero de 2026, de https://es.scribd.com/presentation/812394937/Clase-Digu
+4. Flet. (n.d.). Button. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/button/
+5. Flet. (n.d.). Row - flet. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/row/
+6. Flet. (n.d.-a). Container. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/container/
+7. Flet. (n.d.-a). Column. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/column/
+8. Flet. (n.d.-c). GridView. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/gridview/
+9. (N.d.). Mozilla.org. Retrieved February 22, 2026, from https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/Events
+10. Casero, A. (2023, July 19). Eventos en los web components: ¿Qué son? KeepCoding Bootcamps. https://keepcoding.io/blog/que-son-los-eventos-en-los-web-components/
+11. - YouTube. (n.d.). Youtu.Be. Retrieved February 22, 2026, from https://youtu.be/XVgA-kMkOdo?si=0DzZQ6QAfLLEBh9f
+12. Flet. (n.d.). Checkbox. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/checkbox/
+13. Flet. (n.d.). PaidAdRequest. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/ads/types/paidadevent/
 
