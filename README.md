@@ -204,7 +204,7 @@ def teclado(e: ft.KeyboardEvent):
 page.on_keyboard_event = teclado
 ```
 Así sé qué tecla se presionó.
- #1.3 Manejo de eventos.
+# 1.3 Manejo de eventos.
 <br>Después de entender qué es un evento, aprendí que el manejo de eventos consiste en decidir qué va a hacer el programa cuando ocurra ese evento. Es decir, no solo detectarlo, sino programar la respuesta.</br>
 
 <br>Para manejar eventos se usan funciones llamadas handlers o listeners. Estas funciones se ejecutan automáticamente cuando ocurre la acción. En Flet, simplemente creo una función y la paso como parámetro del evento.</br>
