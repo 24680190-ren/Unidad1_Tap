@@ -320,7 +320,7 @@ Aquí el programa revisa el contenido y muestra un mensaje dependiendo si es vá
 En resumen, el manejo de componentes gráficos consiste en crear los controles, modificar sus propiedades y hacer que respondan a eventos. En Flet todo se hace manipulando objetos como Text, Button, TextField, Checkbox, Dropdown o DataTable. Saber usar bien estos componentes es clave para construir aplicaciones claras, funcionales y fáciles de usar.
 # Aplicación de los conocimientos 
 En el siguiente enlace se encuentra la forma en que aplicque los conocimientos obtenidos en esta unidad 
-https://github.com/24680190-ren/Proyecto_Integrador-
+https://github.com/24680190-ren/24680190_Ejercicio0TAP
 # Conclusión 
 En conclusión, el estudio de las interfaces gráficas de usuario permite comprender cómo construir aplicaciones más amigables y fáciles de usar. No se trata únicamente de colocar elementos visuales en la pantalla, sino de organizarlos correctamente, controlar su comportamiento y hacer que reaccionen a las acciones del usuario mediante eventos. La combinación de layouts, componentes y manejo de eventos es lo que da vida a una aplicación interactiva.
 
